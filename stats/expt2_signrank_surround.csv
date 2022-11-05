@@ -1,0 +1,6 @@
+"","pairname","test stat","p"
+"1","MS_grat-HS_grat","492","6.51925802230835e-09"
+"2","MS_noise-HS_noise","395","3.72529029846191e-07"
+"3","MS_histeq-HS_histeq","464.5","2.2444874048233e-06"
+"4","MS_bandpass-HS_bandpass","459","2.04890966415405e-08"
+"5","MS_broadband-HS_broadband","494","2.79396772384644e-09"
